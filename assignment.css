@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+    color: white;
+    font-style: italic;
+    margin: 0px;
+    }
+    
+    textarea {
+    height: 70%;
+    min-width: 300px;
+    }
+    
+    form {
+    margin: auto;
+    text-align: left; 
+    width: 50%; 
+    }
+    
+    form label {
+    padding : 10px 4px;   
+    display: block; 
+    position: relative;
+    }
+    
+    input, textarea {
+    width: 100%;    
+    border: black solid 2px;
+    }
+    
+    button {
+    margin-top: 15px;
+    border-radius: 5px;    
+    }
